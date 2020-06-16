@@ -5,9 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     title: Green
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: 'Creador de sitios web y aplicaciones, Material Desing'
     actions:
       - label: Learn More
         url: /features
